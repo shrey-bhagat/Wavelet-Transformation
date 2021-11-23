@@ -8,3 +8,6 @@ In this repository, 3 operations are performed :
 ## Results
 
 Commendable increase in accuracy was found after the Wavelet Transformation was performed on the well log data
+
+
+![download](https://user-images.githubusercontent.com/65214856/143050753-8fbd75f8-dce0-42d4-adef-f3484e37659a.png)
